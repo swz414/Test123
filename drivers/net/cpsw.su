@@ -1,0 +1,16 @@
+cpsw.c:1033:13:cpsw_halt	0	static
+cpsw.c:337:12:cpsw_ale_read.isra.0	0	static
+cpsw.c:380:12:cpsw_ale_match_free	32	static
+cpsw.c:394:12:cpsw_ale_find_ageable	32	static
+cpsw.c:361:12:cpsw_ale_match_addr	40	static
+cpsw.c:349:12:cpsw_ale_write.isra.1	0	static
+cpsw.c:526:12:cpsw_mdio_read	24	static
+cpsw.c:545:12:cpsw_mdio_write	24	static
+cpsw.c:714:12:cpdma_submit	12	static
+cpsw.c:759:12:cpdma_process	16	static
+cpsw.c:1040:12:cpsw_send	32	static
+cpsw.c:1047:12:cpsw_recv	32	static
+cpsw.c:439:12:cpsw_ale_add_mcast.constprop	40	static
+cpsw.c:1026:12:cpsw_init	48	static
+cpsw.c:992:5:_cpsw_register	24	static
+cpsw.c:1063:5:cpsw_register	16	static

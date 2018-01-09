@@ -1,0 +1,3 @@
+myd_j335x.c:86:13:cpsw_control	0	static
+myd_j335x.c:72:5:board_init	8	static
+myd_j335x.c:194:5:board_eth_init	24	static

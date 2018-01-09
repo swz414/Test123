@@ -1,0 +1,1 @@
+cmd_spl/board/myirtech/myd_j335x/built-in.o :=  arm-linux-gnueabihf-ld.bfd     -r -o spl/board/myirtech/myd_j335x/built-in.o spl/board/myirtech/myd_j335x/myd_j335x.o spl/board/myirtech/myd_j335x/mux.o spl/board/myirtech/myd_j335x/spl.o 

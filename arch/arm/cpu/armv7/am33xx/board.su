@@ -1,0 +1,2 @@
+board.c:109:5:cpu_mmc_init	16	static
+board.c:198:5:arch_misc_init	0	static
